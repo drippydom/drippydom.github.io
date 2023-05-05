@@ -39,10 +39,10 @@
     
     createPlatform(150,400);
     createPlatform(250,200);
-    createPlatform(125,50);
-    createPlatform(400,300);
-    createPlatform(450,150);
-    createPlatform(500,550);
+    createPlatform(125,250);
+    createPlatform(500,300);
+    createPlatform(550,150);
+    createPlatform(600,450);
     createPlatform(700,400);
   
   
